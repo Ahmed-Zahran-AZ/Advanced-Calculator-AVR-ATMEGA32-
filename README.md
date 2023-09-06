@@ -1,2 +1,3 @@
 # Advanced Calculator using ATMEGA32
-This is the final graduation project for the ITI Summer Code Camp
+## How it works: 
+The calculator works by converting the expression from infix to postfix (Reverse Polish Notation or RPN) using the shunting yard algorithm
