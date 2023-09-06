@@ -19,7 +19,8 @@
 
 void APP_VidInit(void){
 	KPD_VidInit();
+	KPD_ADVANCED_VidInit();
 	LCD_VidInit();
-
 }
 
+v
